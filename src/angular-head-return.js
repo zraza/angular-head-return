@@ -1,5 +1,5 @@
 angular.module('zanbeel', [])
-   .directive('HeadReturn', function($compile, $window) {
+   .directive('headReturn', function($compile, $window) {
       'use strict';
       return {
          restrict: 'A',
