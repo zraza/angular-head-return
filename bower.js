@@ -1,7 +1,7 @@
 {
 "name": "angular-head-return",
-"version": "0.2",
-"main": "src/angular-head-return.js",
+"version": "0.1.1",
+"main": ["src/angular-head-return.js"],
 "ignore": [
 ],
 "homepage": "https://github.com/zraza/angular-head-return",
