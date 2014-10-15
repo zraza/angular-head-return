@@ -1,6 +1,6 @@
 {
   "name": "angular-head-return",
-  "version": "0.1.1",
+  "version": "v0.1.1",
   "homepage": "https://github.com/zraza/angular-head-return",
   "description": "Angular directive to hide header on scroll down and show on scroll up.",
   "main": "src/angular-head-return.js",
