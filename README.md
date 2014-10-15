@@ -1,4 +1,4 @@
-Angular-HeadReturn is a super simple angular directive that react to the user's scroll and hide/show itself (ideally page header) depending on scroll direction.
+angular-head-return is a super simple angular directive that react to the user's scroll and hide/show itself (ideally page header) depending on scroll direction.
 
 ### Usage
 
@@ -7,11 +7,12 @@ The usage is super simple, drop the JavaScript in your page, add zanbeel as your
 ```JavaScript
 angular.module('app', ['zanbeel']);
 
+```
+
 ```html
 <header head-return>
     <!-- Your Header Contents -->
 </header>
-
 ```
 
 ## License
